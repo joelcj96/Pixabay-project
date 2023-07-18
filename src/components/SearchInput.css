@@ -1,0 +1,26 @@
+.container {
+    box-shadow: rgba( 0, 0, 0, 0.16) 9px 10px 19px;
+    border: 16px solid white;
+    border-radius: 8px;
+    width: 55%;
+}
+
+.form {
+    padding: 10px 6px;
+    border-left: 3px solid rgb(122, 177, 139)
+    ;
+    border-right: 3px solid rgb(122, 177, 139)
+    ;
+    border-radius: 18px;
+}
+.form:hover{
+    background-color: rgb(224, 240, 246);
+}
+
+.input{
+    padding: 11px 12px;
+    border: 1px solid rgb(218, 214, 207);
+    width: 100%;
+    border-radius: 8px;
+    font-size: 23px;
+}
