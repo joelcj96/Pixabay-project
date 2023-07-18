@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pixabay-project/static/css/main.52cb5897.css",
+    "main.js": "/Pixabay-project/static/js/main.ea763cf3.js",
+    "index.html": "/Pixabay-project/index.html",
+    "main.52cb5897.css.map": "/Pixabay-project/static/css/main.52cb5897.css.map",
+    "main.ea763cf3.js.map": "/Pixabay-project/static/js/main.ea763cf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52cb5897.css",
+    "static/js/main.ea763cf3.js"
+  ]
+}
